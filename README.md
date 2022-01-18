@@ -11,7 +11,7 @@ The dataset contains 20,340 data points with 14 features. After converting the c
 
 ### Classification Models
 
-K-nearest neighbors, logistic regression, decision trees, and random forests were used for modeling. Gradient boosted trees, average voting, weighted voting, and max voting were used as ensembling methods. After evaluating all options Gradient Boosted Trees was the best model for classification across both train, and test sets. The best model for Classification was a XG Boosted Tree Model. The score on the training data for classification was .9998, and the score on validation data was .9978
+K-nearest neighbors, logistic regression, decision trees, and random forests were used for modeling. Gradient boosted trees, average voting, weighted voting, and max voting were used as ensembling methods. After evaluating all options Gradient Boosted Trees was the best model for classification across both train, and test sets. The best model for Classification was a Random Forest Model. The score on the training data for classification was .9998, and the score on validation data was .9978
 
 ### Regression Models
 
