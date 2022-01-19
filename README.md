@@ -22,3 +22,7 @@ Linear regression, elastic net, ridge regression, lasso regression, random fores
 The entire training dataset into 75/25 train vs. holdout, predictions on the 25% holdout were limited to the very end, so this split was only used and scores seen just once.
 
 The final score of the entire pipeline on the hold out data was .927. 
+
+### Presentation 
+
+A presentation of this project can be found [here](https://www.youtube.com/watch?v=I217NjmBz54).
